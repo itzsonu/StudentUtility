@@ -20,6 +20,7 @@
           "net10.0"
         ],
         "sources": {
+          "http://localhost:8081/repository/nuget-hosted/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

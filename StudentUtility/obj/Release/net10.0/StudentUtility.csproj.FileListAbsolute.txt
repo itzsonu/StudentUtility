@@ -1,0 +1,12 @@
+C:\PackageManagementDemo\nuget\StudentUtility\bin\Release\net10.0\StudentUtility.deps.json
+C:\PackageManagementDemo\nuget\StudentUtility\bin\Release\net10.0\StudentUtility.dll
+C:\PackageManagementDemo\nuget\StudentUtility\bin\Release\net10.0\StudentUtility.pdb
+C:\PackageManagementDemo\nuget\StudentUtility\obj\Release\net10.0\StudentUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\PackageManagementDemo\nuget\StudentUtility\obj\Release\net10.0\StudentUtility.AssemblyInfoInputs.cache
+C:\PackageManagementDemo\nuget\StudentUtility\obj\Release\net10.0\StudentUtility.AssemblyInfo.cs
+C:\PackageManagementDemo\nuget\StudentUtility\obj\Release\net10.0\StudentUtility.csproj.CoreCompileInputs.cache
+C:\PackageManagementDemo\nuget\StudentUtility\obj\Release\net10.0\StudentUtility.sourcelink.json
+C:\PackageManagementDemo\nuget\StudentUtility\obj\Release\net10.0\StudentUtility.dll
+C:\PackageManagementDemo\nuget\StudentUtility\obj\Release\net10.0\refint\StudentUtility.dll
+C:\PackageManagementDemo\nuget\StudentUtility\obj\Release\net10.0\StudentUtility.pdb
+C:\PackageManagementDemo\nuget\StudentUtility\obj\Release\net10.0\ref\StudentUtility.dll
